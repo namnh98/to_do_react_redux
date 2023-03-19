@@ -1,0 +1,15 @@
+nav ul {
+  height: 200px;
+  width: 18%;
+}
+
+nav ul {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.containerList {
+  margin-left: 8px;
+  margin-top: 12px;
+  margin-right: 8px;
+}

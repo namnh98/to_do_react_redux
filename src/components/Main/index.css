@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(179, 176, 176);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container h3 {
+  font-size: 55px;
+  text-align: center;
+}
+
+.container .inputWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0px 8px;
+}
+
+.main {
+  background-color: white;
+  width: 600px;
+  height: 800px;
+}
+
+.buttonAdd {
+  background-color: aquamarine;
+}
